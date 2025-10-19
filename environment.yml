@@ -1,7 +1,6 @@
 name: app_environment
 channels:
   - https://repo.anaconda.com/pkgs/snowflake
-  - defaults
 dependencies:
   - python=3.10.*
   - snowflake-snowpark-python=
