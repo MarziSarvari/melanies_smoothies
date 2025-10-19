@@ -1,2 +1,2 @@
-snowflake-snowpark-python
+snowflake-snowpark-python[pandas]==1.17.0
 streamlit
